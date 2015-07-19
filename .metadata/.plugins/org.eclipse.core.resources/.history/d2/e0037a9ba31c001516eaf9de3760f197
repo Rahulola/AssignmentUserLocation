@@ -1,0 +1,13 @@
+package hi;
+
+public class calculator {
+	
+	public static void main (String args[])
+	{
+	String l = System.console().readLine("enter :");
+	int a = Integer.parseInt(l);
+	 System.out.println("more then you entered :"+(a));
+	 
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extracts string &apos;City Info&apos; into R.string.city_info" description="Extracts string &apos;City Info&apos; into R.string.city_info" file="/Copy of UserLocation/res/layout/activity_main.xml" flags="6" id="com.android.ide.eclipse.adt.refactoring.extract.string" mode="EDIT_SOURCE" proj="/Copy of UserLocation" rplc-all-java="false" rplc-all-xml="false" sel-end="761" sel-start="738" stamp="1437298839078" tok-esc="City Info" xml-attr-name="android:text"/>
+</session>

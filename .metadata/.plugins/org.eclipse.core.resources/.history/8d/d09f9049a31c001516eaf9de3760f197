@@ -1,0 +1,12 @@
+package hi;
+
+public class calculator {
+	
+	public static void main (String args[])
+	{
+	int a = 10;
+	 System.out.println("more then you entered :"+(+++a));
+	 
+	}
+
+}

@@ -1,0 +1,25 @@
+package qWERT;
+
+public class Rahul {
+	public static void main(String args[])
+	{
+		Rahul ra = new Rahul();
+	while(true)
+	{
+	String l = System.console().readLine("Enter the first number :");
+	int a = Integer.parseInt(l);
+	String m = System.console().readLine("Enter the second number :");
+	int b = Integer.parseInt(m);
+	
+	ra.ola(a, b);
+	}
+	}
+		
+public void ola(int a, int b)
+{
+int c;
+c = a+b;
+System.out.println("The sum of the numbers :" +c);
+}
+	
+}

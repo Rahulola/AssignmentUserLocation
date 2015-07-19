@@ -1,0 +1,28 @@
+package qWERT;
+import java.io.IOException;
+public class Rahul {
+	public static void main(String args[])
+	{
+		try {
+		Rahul ra = new Rahul();
+		//String l = System.console().readLine("Enter the first number :");
+		int a = 5 ;
+		//String m = System.console().readLine("Enter the second number :");
+		int b = 10;
+		ra.ola(a, b);
+		}
+		catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+			}
+	
+	}
+		public void ola(int a, int b)
+		{
+			int c;
+			c = a+b;
+			System.out.println("The sum of the numbers :" +c);
+			}
+	
+	
+}
